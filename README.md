@@ -12,7 +12,7 @@ instalarlo:
     
 Una vez instalado creamos el proyecto:
 
-    php composer.phar create-project comphppuebla/zendcodeexample zend-code
+    php composer.phar --stability="dev" create-project comphppuebla/zendcodeexample zend-code
 
 ## Modo de uso
     
