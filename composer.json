@@ -11,5 +11,6 @@
     ],
     "require": {
         "zendframework/zend-code": "2.0.*"
-    }
+    },
+    "minimum-stability": "dev"
 }
