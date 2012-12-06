@@ -1,0 +1,15 @@
+{
+    "name": "comphppuebla/zendcodeexample",
+    "description": "Ejemplo de uso del paquete zend-code de ZF2",
+    "homepage": "http://www.comunidadphppuebla.com",
+    "license": "MIT",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.zendframework.com/"
+        }
+    ],
+    "require": {
+        "zendframework/zend-code": "2.0.*"
+    }
+}
